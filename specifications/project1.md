@@ -10,6 +10,7 @@ There is no specific deadline for release 1 of this project. When you are passin
 1. You must demonstrate mastery of release 1 before moving on to release 2.
 2. You must demonstrate mastery of releases 1 and 2 *and* complete all functionality requirements of release 3 in order to pass this course.
 3. You may resubmit solutions *at most* once per week. 
+4. You must have an in-person code review, which must be scheduled with the instructor.
 
 ## Overview ##
 
@@ -79,6 +80,8 @@ The important part will be to **test your code as you go**. The JUnit tests prov
 The expected output files are identical to Lab 3.
 
 You _must_ pass `Project1Test.java` to be eligible for code review. You may sign up for code review even if you are not passing `Project1ComplexTest.java`, but know that this means your code has efficiency issues.
+
+You *must* pass `Project1ComplexTest.java` in order to move on to release 2.
 
 ## Submission ##
 You must pass all of the `Project1Test` tests in order to qualify for code review.
