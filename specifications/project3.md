@@ -65,6 +65,10 @@ It is expected that you will need to think carefully about to design each of the
 
 **Propose your own (up to 10 points)** - Propose your own feature during office hour. The instructor will tell you whether it is allowable and how many points it will be worth.
 
+**Multithreaded last.fm client (2.5 points)** - Use a `WorkQueue` to use multiple threads to fetch content from last.fm concurrently.
+
+**Pagination (7.5 points)** - On any page that contains a list of results, allow the user to view either 5, 10, or 25 results per page and then use a Next/Previous button or link to go to the next/previous page.
+
 ## Submission ##
 You do **not** need to pass any unit tests for this project. You *may* remove the code that saves the `MusicLibrary` and the search output to a file.
 
