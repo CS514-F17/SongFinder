@@ -69,6 +69,10 @@ It is expected that you will need to think carefully about to design each of the
 
 **Pagination (7.5 points)** - On any page that contains a list of results, allow the user to view either 5, 10, or 25 results per page and then use a Next/Previous button or link to go to the next/previous page.
 
+**Presentation (5 points)** - Present your web application to the class on Monday, 12/4. Your solution must be running on your assigned microcloud node and you must have at least the required features implemented.
+
+**Admin Interface (up to 10 points)** - Create an administrator interface for your application. You will need to provide a way for an administrator to log in to your service. It is up to you to determine the functionality provided to the administrator. Your score on this portion will depend on the sophistication of the interface and functionality.
+
 ## Submission ##
 You do **not** need to pass any unit tests for this project. You *may* remove the code that saves the `MusicLibrary` and the search output to a file.
 
